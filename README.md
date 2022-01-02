@@ -1,2 +1,2 @@
 # SQL
-SQL Basics for beginners
+SQL Basics for Beginners
